@@ -7,6 +7,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>xxl-db-core</module>
+		<module>xxl-db-core-example</module>
 	</modules>
 
 </project>
